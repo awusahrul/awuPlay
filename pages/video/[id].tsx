@@ -38,7 +38,7 @@ const Awusahrul_HalamanPemutarVideo = () => {
     return (
       <>
         <Head>
-          <title>Pemutar Video Awusahrul</title>
+          <title>Pemutar Video</title>
         </Head>
         <div style={awusahrul_gaya_kontainer_video}>
           <PlyrVideo 
