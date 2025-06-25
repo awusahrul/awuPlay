@@ -1,6 +1,6 @@
 {
   "name": "awu-play",
-  "version": "0.1.0",
+  "version": "0.1.2025062501",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +11,7 @@
     "plyr": "^3.7.8",
     "next": "14.0.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
