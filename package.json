@@ -1,6 +1,6 @@
 {
-  "name": "awuPlay",
-  "version": "2025.06.2501",
+  "name": "awu-play",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
