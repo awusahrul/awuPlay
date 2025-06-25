@@ -1,3 +1,5 @@
+![Banner](https://play.awu.my.id/AwuPlay_20250625_212530_0000.svg)
+
 # awuPlay
 
 ![Versi](https://img.shields.io/badge/versi-V2025.06.25-blue)
